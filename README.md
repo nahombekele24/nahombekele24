@@ -69,7 +69,7 @@
 
 | 🧩 **Databases** | 🧰 **Dev Tools** | 🎨 **Design Tools** | 🚀 **Deployment** |
 |:----------------:|:-----------------:|:------------------:|:----------------:|
-| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,supabase) | ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,idea) | ![Design](https://skillicons.dev/icons?i=ps,ai,xd)| ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,supabase) | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea) | ![Design](https://skillicons.dev/icons?i=ps,ai,xd,figma)| ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
 
 </div>
 
